@@ -1,0 +1,4 @@
+train: train_data/train
+val: train_data/train
+nc: 5
+names: ['Car', 'Bicycle', 'Bus', 'Truck', 'Motorcycle']
